@@ -1,3 +1,8 @@
+---
+title: McCoyFam
+layout: default
+---
+
 Test GitHub Page
 ================
 
