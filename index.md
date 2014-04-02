@@ -3,11 +3,6 @@ title: McCoyFam
 layout: default
 ---
 
-Test GitHub Page
-================
-
-This is a test
---------------
-
-
-There are many like it, but this one is *mine*
+Sorry, our website hosting company [Textdrive](http://textdrive.com/) decided
+not to contact any of their customers before going out of business. We will be
+back soon!
